@@ -22,7 +22,7 @@ repository               : "chengchuliang/chengchuliang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/chengchuliang.png?size=256"
+  avatar           : "head2.jpg"
   name             : "Chengchu Liang"
   pronouns         : # example: "she/her"  
   bio              : "Student at Wuhan University"
