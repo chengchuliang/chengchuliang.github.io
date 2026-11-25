@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "梁承楚"
+title: "Chengchu Liang"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-你好，我是梁承楚。欢迎来到我的个人主页。
+I'm Chengchu Liang, a student in the School of Computer Science at Wuhan University.
 
-你可以在 [GitHub 上查看我的公开项目](https://github.com/chengchuliang?tab=repositories)。
+You can find my public projects on [GitHub](https://github.com/chengchuliang?tab=repositories).
